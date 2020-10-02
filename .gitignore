@@ -1,6 +1,7 @@
 # Build and Release Folders
 bin-debug/
 bin-release/
+.ipynb_checkpoints/
 [Oo]bj/
 [Bb]in/
 
